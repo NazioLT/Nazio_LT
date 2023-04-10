@@ -11,3 +11,5 @@ Hello, I'm Henno Théo, self-educated developper and game-design student.
 ####
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazioLT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazioLT&show_icons=true&theme=transparent)
